@@ -1,3 +1,3 @@
 # Android-MVVVM
 Program simple menggunakan MVVM Android menggunakan bahasa kotlin
-Buka menggunakan Android Studio
+/n Buka menggunakan Android Studio
